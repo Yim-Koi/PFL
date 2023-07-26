@@ -8,6 +8,8 @@ I enjoy coding for fun and making toy projects. This repo serves as my portfolio
    For this project I analyzed real-life use cases to design conceptual and physical entity relationship diagrams for a cafe database management system.<br>
    The data base management system was designedd in SQL, functionality has been tested and redied for integration with Square POS system before further development.<br>
    The diagrams were reviewed by industry experts (instructors from Boston University), feedback was incorporated into the design process to enhance data storing and retrieval procedures.
+* [Garment Factory Simulation (SimPy)](https://github.com/Yim-Koi/Garment-sim)<br>
+   Discrete even simulation of a garment factory using SimPy.
 
 
   
